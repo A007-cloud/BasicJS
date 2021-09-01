@@ -210,3 +210,32 @@ setTimeout(() => {
 console.log('Hello!');
 console.log('Hi!');
 */
+
+// Template Literals
+
+/*
+const another = 
+
+`Hi John,
+
+Thank you for joining my mailing list.
+
+Regards,
+Mosh`;
+
+console.log(another);
+*/
+
+/*
+const name = 'John';
+
+const another = 
+`Hi ${name} ${2+3},
+
+Thank you for joining my mailing list.
+
+Regards,
+Mosh`;
+
+console.log(another);
+*/
